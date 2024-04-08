@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/FitHub/static/css/main.84d9f36d.css",
+    "main.js": "/FitHub/static/js/main.4ca2301a.js",
+    "static/media/strength.jpg": "/FitHub/static/media/strength.ba2320fd631b59da7c11.jpg",
+    "static/media/aerobic.png": "/FitHub/static/media/aerobic.9f1915b94ca290f1931c.png",
+    "static/media/flexibility.png": "/FitHub/static/media/flexibility.26c870f751a52f6d626e.png",
+    "static/media/slide3.jpg": "/FitHub/static/media/slide3.e35f40111bfaaefaba3c.jpg",
+    "static/media/back.jpg": "/FitHub/static/media/back.b858019a916cf011eabf.jpg",
+    "static/media/balance.jpg": "/FitHub/static/media/balance.a5744cf40ccf016726c1.jpg",
+    "static/media/logo.svg": "/FitHub/static/media/logo.979a733939d14235bcb2e53bf288992f.svg",
+    "index.html": "/FitHub/index.html",
+    "static/media/facebook.svg": "/FitHub/static/media/facebook.e40c6e4c9ad1f2897f334a665620793b.svg",
+    "static/media/instagram.svg": "/FitHub/static/media/instagram.5b9a230a63c5c25082cfed53db171f02.svg",
+    "static/media/twitterx.svg": "/FitHub/static/media/twitterx.f7f83c1642745c435b68e1cf4cb8c592.svg",
+    "static/media/edit.svg": "/FitHub/static/media/edit.08f0de5f3869c2c43db22654c546a17c.svg",
+    "static/media/deleteicon.svg": "/FitHub/static/media/deleteicon.fd62d0ef2d25382c926f8efae0662ad3.svg",
+    "static/media/person-circle.svg": "/FitHub/static/media/person-circle.086ba17e45e686ca2a3646986fb051fe.svg",
+    "main.84d9f36d.css.map": "/FitHub/static/css/main.84d9f36d.css.map",
+    "main.4ca2301a.js.map": "/FitHub/static/js/main.4ca2301a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84d9f36d.css",
+    "static/js/main.4ca2301a.js"
+  ]
+}
