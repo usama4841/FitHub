@@ -1,0 +1,276 @@
+body {
+  background-image: url(./img/back.jpg);
+  /* Set background color with opacity */
+  background-color: rgba(11, 11, 11, 0.5);
+}
+
+#purchasebtn {
+  font-size: large;
+  font-weight: 600;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+#purchasebtn:hover {
+  height: 42px;
+  font-weight: 700;
+}
+
+.card-body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#cover {
+  position: absolute;
+  display: flex;
+  height: 90vh;
+  width: 100%;
+  border-radius: 0px 0px 25px 25px;
+  background-image: url(./img/slide3.jpg);
+  background-color: rgba(11, 11, 11, 0.5);
+  background-size: cover;
+  background-repeat: no-repeat;
+  filter: blur(2px);
+  -webkit-filter: blur(2px);
+  z-index: -1;
+}
+
+.service {
+  padding: 20px;
+  border-radius: 5% 20%;
+  background-image: linear-gradient(to bottom right,
+  rgba(208, 208, 208, 0.842),
+  rgba(104, 102, 102, 0.9));
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: all 0.7s ease-in-out;
+}
+
+.service:hover{
+  border-radius: 25% 5%;
+}
+
+#line{
+  border: 1px solid #ff1100;
+}
+
+#top{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+  background-color: #383838;
+  color: black;
+}
+
+#head{
+  color: #ffffff;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 900;
+}
+
+#desc{
+  margin-top: -1%;
+  font-size: x-large;
+  font-weight: 500;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#descri{
+  padding: 4% 10% 0% 10%;
+  color: rgb(255, 255, 255);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.hr{
+  color: white;
+  margin: 5% 10% 0% 10%;
+  border: 1px solid white;
+}
+
+#middle{
+  padding: 0% 10%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #9a9a9a;
+  height: 100vh;
+}
+
+#first{
+  margin-right: 3%;
+  padding-top: 3%;
+  background-image: linear-gradient(to bottom right,
+  rgba(44, 44, 44, 0.5),
+  rgba(111, 111, 111, 0.2));
+  color: #ffffff;
+  border-radius: 5%;
+  height: 80%;
+  width: 50%;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#sec{
+  padding-top: 3%;
+  background-image: linear-gradient(to bottom right,
+  rgba(0, 0, 0, 0.7),
+  rgba(12, 12, 12, 0.8), 
+  rgba(0, 0, 0, 0.5));
+  color: #ffffff;
+  border-radius: 5%;
+  height: 80%;
+  width: 50%;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#form{
+  text-align: start;
+}
+
+#map{
+  background-color: #9a9a9a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+
+#mappic{
+  width: 80%;
+  height: 90%;
+  display: flex;
+  justify-content: center;
+  border-radius: 30px;
+  overflow: hidden;
+}
+
+#cname{
+  height: 45px;
+  opacity: 70%;
+  color: #ffffff;
+}
+
+#cemailaddress{
+  height: 45px;
+  opacity: 70%;
+  color: #ffffff;
+}
+
+#ccontact{
+  height: 45px;
+  opacity: 70%;
+  color: #ffffff;
+}
+
+#cdesc{
+  height: 100px;
+  opacity: 70%;
+  color: #ffffff;
+}
+
+#cname::placeholder{
+  color: #ffffff;
+}
+
+#cemailaddress::placeholder{
+  color: #ffffff;
+}
+
+#ccontact::placeholder{
+  color: #ffffff;
+}
+
+#cdesc::placeholder{
+  color: #ffffff;
+}
+
+#conbtn{
+  height: 100%;
+  margin-top: 7%;
+}
+
+@media screen and (max-width: 1050px) {
+  #middle{
+    padding: 5% 10%;
+    display: block;
+    background-color: #9a9a9a;
+    height: 110vh;
+  }
+
+  #first{
+    background-image: linear-gradient(to bottom right,
+  rgba(44, 44, 44, 0.5),
+  rgba(111, 111, 111, 0.5));
+    padding-top: 3%;
+    border-radius: 5%;
+    height: 50vh;
+    width: 100%;
+    text-align: center;
+  }
+  
+  #sec{
+    margin-top: 10%;
+    background-image: linear-gradient(to bottom right,
+  rgba(0, 0, 0, 0.7),
+  rgba(12, 12, 12, 0.8), 
+  rgba(0, 0, 0, 0.5));
+  color: #ffffff;
+    padding-top: 3%;
+    border-radius: 5%;
+    height: 50vh;
+    width: 100%;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  #top{
+    height: 50vh;
+  }
+}
+
+@media screen and (max-height: 600px) {
+  #first{
+    overflow-y: scroll;
+    overflow-x: hidden;
+  }
+
+  #sec{
+    overflow-y: scroll;
+    overflow-x: hidden;
+  }
+
+  #top{
+    overflow-y: scroll;
+    overflow-x: hidden;
+  }
+
+  #cname{
+    height: 100%;
+    opacity: 70%;
+    color: #ffffff;
+  }
+  
+  #cemailaddress{
+    height: 100%;
+    opacity: 70%;
+    color: #ffffff;
+  }
+  
+  #ccontact{
+    height: 100%;
+    opacity: 70%;
+    color: #ffffff;
+  }
+  
+  #cdesc{
+    height: 100%;
+    opacity: 70%;
+    color: #ffffff;
+  }
+
+  #conbtn{
+    height: 100%;
+    margin-top: 0%;
+  }
+}

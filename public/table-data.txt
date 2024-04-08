@@ -1,0 +1,72 @@
+User :
+
+uid -primary key
+name 
+email
+phone
+password
+age
+address
+city
+state 
+
+gym :
+
+gid -primary key
+gymname
+email 
+owner name
+phone
+address
+city
+state
+password
+
+admin:
+
+adminid -primary key
+email
+password
+
+package :
+
+pid -primary key
+gid - foreign key(gym)
+title
+desc
+amount
+
+purchase :
+
+puid -primary key
+pid - foreign key(package)
+gid -foreign key(package)
+uid -foreign key(user)
+status - success
+
+trainer :
+
+tid -primary
+trainer name
+phone
+address 
+email
+no of clients
+
+workout :
+
+wid -primary  key
+title 
+desc
+category
+
+diet : 
+
+did -primary key
+title
+desc
+category
+
+
+
+

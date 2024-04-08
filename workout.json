@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "660b9d10f712a9c75fbdefef"
+  },
+    "title": "White Bean & Sun-Dried Tomato Gnocchi",
+    "description": "Sun-dried tomatoes are the star of this recipe—providing texture and umami. Combined with the spinach, they make this dish a great source of vitamins C and K.",
+    "profile": "Nut-Free, Soy-Free, High-Fiber, Vegetarian, Egg-Free, Low-Calorie",
+    "ingredients": "½ cup sliced oil-packed sun-dried tomatoes plus 2 tablespoons oil from the jar, divided, 1 (16 ounce) package shelf-stable gnocchi, 1 (15 ounce) can low-sodium cannellini beans, rinsed, 1 (5 ounce) package baby spinach, 1 large shallot, minced, ⅓ cup low-sodium no-chicken broth or chicken broth, ⅓ cup heavy cream, 1 tablespoon lemon juice, ¼ teaspoon salt,¼ teaspoon ground pepper,tablespoons fresh basil leaves",
+    "directions": "step-1 : Heat 1 tablespoon oil in a large nonstick skillet over medium-high heat. Add gnocchi and cook, stirring often, until plumped and starting to brown, about 5 minutes. Add beans and spinach and cook until the spinach is wilted, about 1 minute. Transfer to a plate.step-2 : Add the remaining 1 tablespoon oil to the pan and heat over medium heat. Add sun-dried tomatoes and shallot; cook, stirring, for 1 minute. Increase heat to high and add broth. Cook until the liquid has mostly evaporated, about 2 minutes., step-2 : Reduce heat to medium and stir in cream, lemon juice, salt and pepper. Return the gnocchi mixture to the pan and stir to coat with the sauce. Serve topped with basil."
+  },
+{
+  "_id": {
+    "$oid": "660b9d10f712a9c75fbdeff0"
+  },
+  "title": "Feta, Kale & Pear Salad",
+  "description": "The crunchy seed topping is the perfect textural juxtaposition to a creamy dressing, soft pears and tender massaged kale salad. Tossing it all with mint, feta and red onion gives it a Middle Eastern flair.",
+  "profile": "High-Calcium, Bone-Health, Nut-Free, Healthy Aging, Healthy Immunity, Low Added Sugar, Soy-Free. High-Fiber, Vegetarian, Egg-Free, Gluten-Free, Low-Calorie",
+  "ingredients": "¼ cup pepitas, ¼ cup sesame seeds, ¼ cup sunflower seeds, 1 ½ teaspoons extra-virgin olive oil, ½ teaspoon kosher salt, divided, ¼ cup whole-milk plain Greek yogurt, 2 tablespoons tahini, 1 tablespoon water, 1 ½ teaspoons cider vinegar, 1 teaspoon lemon juice, 10 cups torn stemmed kale leaves (from 2 bunches), 1 ripe pear, thinly sliced, ¼ medium red onion, thinly sliced, 1 cup fresh mint, divided, ½ cup crumbled feta cheese",
+  "directions": "step-1 : Preheat oven to 325 degrees F., step-2 : Spread pepitas, sesame seeds and sunflower seeds on a rimmed baking sheet. Bake, stirring once, until lightly toasted, about 10 minutes. Immediately scrape the seeds into a medium bowl and toss with oil and 1/8 teaspoon salt. Let cool to room temperature, 10 to 15 minutes., step-3 : Meanwhile, whisk yogurt, tahini, water, vinegar, lemon juice and the remaining 1/8 teaspoon salt in a large bowl. Add kale and massage with the dressing to soften the leaves. Add pear, onion and 1/2 cup mint and toss to combine., step-4 : Serve the salad topped with feta, the remaining 1/2 cup mint and the seeds."
+},
+{
+  "_id": {
+    "$oid": "660b9d10f712a9c75fbdeff1"
+  },
+  "title": "Vegan Coconut Chickpea Curry",
+  "description": "To make this 20-minute vegan curry even faster, buy precut veggies from the salad bar at the grocery store. To make it a full, satisfying dinner, serve over cooked brown rice. When shopping for simmer sauce, look for one with 400 mg of sodium or less and check the ingredient list for cream or fish sauce if you want to keep this vegan. If you like a spicy kick, add a few dashes of your favorite hot sauce at the end.",
+  "profile": "Nut-Free, Dairy-Free, Healthy Pregnancy, Healthy Aging, Healthy Immunity, Low-Sodium, Soy-Free, High-Fiber, Vegan, Vegetarian, Egg-Free, Gluten-Free, Low-Calorie",
+  "ingredients": "2 teaspoons avocado oil or canola oil, 1 cup chopped onion, 1 cup diced bell pepper, 1 medium zucchini, halved and sliced, 1 (15 ounce) can chickpeas, drained and rinsed, 1 ½ cups coconut curry simmer sauce (see Tip), ½ cup vegetable broth, 4 cups baby spinach, 2 cups precooked brown rice, heated according to package instructions",
+  "directions": "step-1 : Heat oil in a large skillet over medium-high heat. Add onion, pepper and zucchini; cook, stirring often, until the vegetables begin to brown, 5 to 6 minutes., step-2 : Add chickpeas, simmer sauce and broth and bring to a simmer, stirring. Reduce heat to medium-low and simmer until the vegetables are tender, 4 to 6 minutes. Stir in spinach just before serving. Serve over rice."
+},
+{
+  "_id": {
+    "$oid": "660b9d10f712a9c75fbdeff2"
+  },
+  "title": "Chhole (Chickpea Curry)",
+  "description": "This healthy Indian recipe is a flavorful chickpea curry that you can make in just 20 minutes. Also called chana masala, this dish is a comforting and delicious dinner.",
+  "profile": "Diabetes-Appropriate, Nut-Free, Dairy-Free, Low-Sodium, Soy-Free, High-Fiber, Heart-Healthy, Vegan, Vegetarian, Egg-Free, Gluten-Free, Low-Calorie",
+  "ingredients": "1 medium serrano pepper, cut into thirds, 4 large cloves garlic, 1 2-inch piece fresh ginger, peeled and coarsely chopped, 1 medium yellow onion, chopped (1-inch), 6 tablespoons canola oil or grapeseed oil, 2 teaspoons ground coriander, 2 teaspoons ground cumin, ½ teaspoon ground turmeric, 2 ¼ cups no-salt-added canned diced tomatoes with their juice (from a 28-ounce can), ¾ teaspoon  kosher salt, 2 15-ounce cans chickpeas, rinsed, 2 teaspoons garam masala, Fresh cilantro for garnish",
+  "directions": "step-1 : Pulse serrano, garlic and ginger in a food processor until minced. Scrape down the sides and pulse again. Add onion; pulse until finely chopped, but not watery., step-2 : Heat oil in a large saucepan over medium-high heat. Add the onion mixture and cook, stirring occasionally, until softened, 3 to 5 minutes. Add coriander, cumin and turmeric and cook, stirring, for 2 minutes., step-3 : Pulse tomatoes in the food processor until finely chopped. Add to the pan along with salt. Reduce heat to maintain a simmer and cook, stirring occasionally, for 4 minutes. Add chickpeas and garam masala, reduce heat to a gentle simmer, cover and cook, stirring occasionally, for 5 minutes more. Serve topped with cilantro, if desired."
+},
+{
+  "_id": {
+    "$oid": "660b9d10f712a9c75fbdeff3"
+  },
+  "title": "Creamy White Chili with Cream Cheese",
+  "description": "This rich, yet healthy, white chicken chili recipe comes together in a flash thanks to quick-cooking chicken thighs and canned white beans. Mashing some of the beans acts as a fast thickener when your soups don't have a long time to simmer. Cream cheese adds the final bit of richness and a hint of sweet tang.",
+  "profile": "Diabetes-Appropriate, Nut-Free, Healthy Aging, Healthy Immunity, Low-Sodium, Soy-Free, High-Fiber, Heart-Healthy, Egg-Free. Gluten-Free. Low-Calorie",
+  "ingredients": "2 (15 ounce) cans no-salt-added great northern beans, rinsed, divided, 1 tablespoon canola oil, 1 pound boneless, skinless chicken thighs, trimmed and cut into bite-size pieces, 1 ½ cups chopped yellow onion (1 medium), ¾ cup chopped celery (2 medium stalks), 5 cloves garlic, chopped (2 tablespoons), 1 teaspoon ground cumin, ¼ teaspoon salt, 3 cups unsalted chicken stock, 1 (4 ounce) can chopped green chiles, 4 ounces reduced-fat cream cheese, ½ cup loosely packed fresh cilantro leaves",
+  "directions": "step-1 : Mash 1 cup beans in a small bowl with a whisk or potato masher., step-2 : Heat oil in a large heavy pot over high heat. Add chicken; cook, turning occasionally, until browned, 4 to 5 minutes. Add onion, celery, garlic, cumin and salt. Cook until the onion is translucent and tender, 4 to 5 minutes., step-3 : Add the remaining whole beans, the mashed beans, stock and chiles. Bring to a boil. Reduce heat to medium and simmer until the chicken is cooked through, about 3 minutes. Remove from heat; stir in cream cheese until melted. Serve topped with cilantro."
+}]

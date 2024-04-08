@@ -1,0 +1,10 @@
+.navbar-nav .nav-item .nav-link {
+  color: rgb(212, 212, 212);
+  font-weight: 400;
+  font-size: medium;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+  color: #ff1100;
+  font-weight: 500;
+}
